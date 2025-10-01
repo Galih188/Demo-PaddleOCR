@@ -12,3 +12,7 @@ Pada repository ini, saya mencoba menjalankan kode sederhana untuk:
 - Menyimpan hasil deteksi ke dalam file gambar (bounding box + teks) dan JSON
 
 ## 📂 Struktur Project
+- coba_paddleocr.py # Script utama untuk menjalankan OCR
+- contoh.jpg # Contoh gambar input (tambahkan sendiri)
+- output/ # Folder hasil output (gambar + JSON)
+- README.md
