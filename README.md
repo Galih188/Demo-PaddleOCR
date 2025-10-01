@@ -13,6 +13,6 @@ Pada repository ini, saya mencoba menjalankan kode sederhana untuk:
 
 ## 📂 Struktur Project
 - coba_paddleocr.py # Script utama untuk menjalankan OCR
-- contoh.jpg # Contoh gambar input (tambahkan sendiri)
+- contoh.jpg # Contoh gambar input
 - output/ # Folder hasil output (gambar + JSON)
 - README.md
